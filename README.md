@@ -2,7 +2,6 @@
 My personal project for manipulating images, for fun and practice.
 
 Currently implemented features:
-
 - Open Files (.bmp, .gif, .jpeg/.jpg, .png)
 - Save Files (.bmp, .gif, .jpeg/.jpg, .png)
 - Decrease/Increase Brightness of an Image
