@@ -24,4 +24,3 @@ To Do List:
   - This will allow the user to replace the colors of a sprite or animation.
   - Additionally, implement a template system that can be parsed for color codes.
     - This will allow for team colors or palette swaps to be changed much more easily for sprites or animations.
-- Allow cursor file formats to be opened and saved.
